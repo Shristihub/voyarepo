@@ -1,0 +1,9 @@
+/org.eclipse.wst.common.project.facet.core.xml
+/org.eclipse.wst.jsdt.ui.superType.container
+
+/bin/
+.classpath
+.project
+/target/
+.settings
+.jsdtscope

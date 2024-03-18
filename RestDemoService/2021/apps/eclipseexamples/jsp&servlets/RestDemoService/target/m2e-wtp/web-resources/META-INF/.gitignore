@@ -1,0 +1,7 @@
+/MANIFEST.MF
+/bin/
+.classpath
+.project
+/target/
+.settings
+.jsdtscope
